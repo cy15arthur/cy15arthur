@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyitatire Uwonizeye Arthur</h1>
 <h3 align="center">Student in Software Engineering</h3>
 
-- 🌱 I’m currently learning: **PL/SQL**
+- 🌱  learnt: **PL/SQL**
 
 - 📫 How to reach me: **Cyitatire15arthur@gmail.com**
 

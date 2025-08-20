@@ -2,7 +2,11 @@
 <h3 align="center">Student in Software Engineering</h3>
 
 - 🌱  learnt: **PL/SQL**
+  
+- 🌱  learnt:Object-Oriented-Programming(java)
 
+- 🌱  learnt:C, C++
+   
 - 📫 How to reach me: **Cyitatire15arthur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
